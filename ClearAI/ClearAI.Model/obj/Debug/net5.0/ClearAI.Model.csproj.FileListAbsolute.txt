@@ -1,0 +1,5 @@
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net5.0\ClearAI.Model.csproj.AssemblyReference.cache
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net5.0\ClearAI.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net5.0\ClearAI.Model.AssemblyInfoInputs.cache
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net5.0\ClearAI.Model.AssemblyInfo.cs
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net5.0\ClearAI.Model.csproj.CoreCompileInputs.cache

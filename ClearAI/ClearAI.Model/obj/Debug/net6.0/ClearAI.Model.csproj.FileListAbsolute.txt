@@ -1,0 +1,12 @@
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\bin\Debug\net6.0\ClearAI.Model.deps.json
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\bin\Debug\net6.0\ClearAI.Model.dll
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\bin\Debug\net6.0\ClearAI.Model.pdb
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ClearAI.Model.csproj.AssemblyReference.cache
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ClearAI.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ClearAI.Model.AssemblyInfoInputs.cache
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ClearAI.Model.AssemblyInfo.cs
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ClearAI.Model.csproj.CoreCompileInputs.cache
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ClearAI.Model.dll
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\refint\ClearAI.Model.dll
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ClearAI.Model.pdb
+E:\Talentelgia\KEN\ClearAI.TestTask\ClearAI\ClearAI.Model\obj\Debug\net6.0\ref\ClearAI.Model.dll
